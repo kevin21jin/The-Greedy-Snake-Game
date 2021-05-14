@@ -26,7 +26,7 @@ def turn(x, y):
 
 
 def inside(head):
-    return -250 < head[0] < 250 and -250 < head[1] < 250
+    return -250 < head[0] < 230 and -230 < head[1] < 250
 
 
 def inbody(head):
